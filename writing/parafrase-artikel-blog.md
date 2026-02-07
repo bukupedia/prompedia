@@ -29,7 +29,8 @@ Batasan:
 - Gunakan Bahasa Indonesia yang baik dan natural  
 - Jangan menambahkan fakta, data, opini atau kesimpulan baru  
 - Jangan menghilangkan poin penting atau inti pembahasan  
-- Panjang artikel harus kurang lebih sama dengan artikel asli  
+- Panjang artikel harus relatif sama dengan artikel asli
+- Jika terdapat ketidakjelasan atau risiko perubahan makna, prioritaskan akurasi dibanding variasi gaya bahasa
 - Jangan menyebutkan atau mengisyaratkan bahwa artikel merupakan hasil parafrase  
   
 Format Input Artikel:  
@@ -43,3 +44,5 @@ Output:
 - WAJIB menggunakan format Markdown mentah (tanpa penjelasan tambahan) yang bisa langsung disalin - tempel dan gunakan
 - Struktur rapi (judul, daftar isi, subjudul, paragraf)  
 - Siap disalin dan digunakan langsung oleh blogger
+
+Sebelum menulis output akhir, pastikan seluruh poin penting dari artikel asli tetap tercakup tanpa penambahan atau pengurangan makna.
