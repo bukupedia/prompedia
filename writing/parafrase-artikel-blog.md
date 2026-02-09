@@ -37,7 +37,7 @@ Batasan:
 - Jangan menghilangkan poin penting atau inti pembahasan
 - Jika terdapat bagian ambigu atau berisiko mengubah makna, prioritaskan akurasi makna dibanding variasi gaya bahasa
 - Jika ada kalimat yang tidak jelas, pertahankan makna asli daripada membuat interpretasi baru
-- Panjang artikel hasil parafrase harus berada dalam kisaran ±10% dari jumlah kata artikel asli
+- Panjang artikel hasil parafrase harus relatif sebanding dengan artikel asli dan tidak berbeda secara signifikan
 - Jangan menyebutkan atau mengisyaratkan bahwa artikel merupakan hasil parafrase
 
 Format Input Artikel:
